@@ -23,6 +23,3 @@ Bienvenue sur mon portfolio personnel! Ce site web statique a été créé avec 
 1. Clonez ce repository: `git clone https://github.com/votre-utilisateur/votre-portfolio.git`
 2. Ouvrez le fichier `index.html` dans votre navigateur web
 
-## Contact
-
-Si vous souhaitez me contacter, n'hésitez pas à utiliser le formulaire de contact sur mon site web ou à m'envoyer un e-mail à [votre-email@example.com](mailto:votre-email@example.com).
